@@ -8,7 +8,7 @@ Approach taken:
 1. To pre-process the tweets, I have used Tokenization, Stopword removal and Stemming (Porter Stemmer).
 2. To convert tokens to text, count vectorization (bag of words) approach has been used.
 3. Machine Learning model used for this classification is Logistic Regression. The best Macro score obtained using this model is 0.7192.
-4. Predicted the outcome of Tweets(text) and stored them under results.csv file.
+4. Predicted the outcome of Tweets(text) and stored them under result.csv file.
 
 # The data description
 The data set three files: train.csv, test.csv.
